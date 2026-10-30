@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ktorykupic.pl/sitemap.xml
