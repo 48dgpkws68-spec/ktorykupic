@@ -2,6 +2,18 @@
 
 > Niezależne rankingi top 10. W każdej grupie produktów dziesięć modeli porównanych pod kątem parametrów, ceny i opinii, z zaletami i wadami, poradnikiem zakupowym i FAQ. Ceny są orientacyjne.
 
+ktorykupic prowadzi Nick van Straaten, niezależny wydawca z Holandii. Dla każdego rodzaju produktu porównujemy modele pod względem parametrów, ceny i opinii kupujących, a poradnik aktualizujemy, gdy zmieniają się ceny lub pojawia się lepszy model. Nie testujemy produktów we własnym laboratorium. Nasze poradniki powstają z pomocą narzędzi AI na podstawie danych producentów, cen i opinii kupujących; Nick nadzoruje metodę i poprawia poradniki, gdy czytelnik lub nasze własne kontrole znajdą błąd. Kontakt: nick@4neon.nl
+
+## Najważniejsze strony
+
+- [ktorykupic](https://ktorykupic.pl/): Niezależne rankingi top 10: najlepsze telewizory, roboty sprzątające, frytkownice i więcej na 2026 rok. Porównanie cen, parametrów i opinii.
+- [Wszystkie rankingi](https://ktorykupic.pl/wszystkie-rankingi.html): Przegląd wszystkich rankingów top 10 na ktorykupic z filtrem kategorii.
+- [Jak wybieramy](https://ktorykupic.pl/jak-wybieramy.html): Nasza metoda: ocena od 1 do 10 za wydajność, stosunek jakości do ceny, niezawodność i obsługę, na podstawie parametrów, cen i opinii kupujących.
+- [O nas](https://ktorykupic.pl/o-nas.html): ktorykupic publikuje niezależne rankingi top 10, prowadzone przez Nicka van Straatena z Holandii. Marki nie mogą kupić miejsca w naszych rankingach.
+- [Prezenty](https://ktorykupic.pl/prezenty/): Pomysły na prezent na 2026: numer 1 z każdego naszego rankingu top 10, wybrany na podstawie parametrów, ceny i opinii.
+- [Pomoc w wyborze](https://ktorykupic.pl/pomoc-w-wyborze.html): Odpowiedz na trzy pytania i sprawdź, który produkt z naszych rankingów top 10 najlepiej pasuje do twojego budżetu i potrzeb.
+- [Opłacalne](https://ktorykupic.pl/oplacalny-wybor.html): Dla każdego rodzaju produktu model z najlepszym stosunkiem jakości do ceny z naszych rankingów top 10.
+
 ## AGD i sprzątanie
 
 - [10 najlepszych robotów sprzątających z mopem 2026](https://ktorykupic.pl/ranking/robot-sprzatajacy-z-mopem.html): #1 Roborock Qrevo Edge S5A
